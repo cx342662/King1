@@ -1,4 +1,3 @@
-[Group]
 groupName=☘️☘️福建
 大田二套,http://84y6jdxz.live2.danghongyun.com/live/hls/8a6db004318e4378b58d87f0414da77c/5a6c5d786f834df8a65b423af5851e6f.m3u8?zfud
 德化新闻综合,http://218.106.152.196/lsdream/2LacKP6/1024/live.m3u8?zfud
@@ -35,7 +34,6 @@ groupName=☘️☘️福建
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
-[Group]
 groupName=⛰️山西
 大宁综合,http://live.daningtv.com/channel1/sd/live.m3u8?zshanxd
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
@@ -95,7 +93,7 @@ groupName=⛰️山西
 长治新闻综合,http://111.53.105.2:8084/4b0bcd8509d748358b4450921fc3443b/h264_300k_ts/index.m3u8?type=hls_live_redirect;{User-Agent@0151?zshanxd}
 长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
 长子综合,rtmp://zzlive.zzc-media.com/live/xwzh?zshanxd
-[Group]
+
 groupName=⛱️河南
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
